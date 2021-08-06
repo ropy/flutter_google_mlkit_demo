@@ -1,6 +1,9 @@
 # google_mlkit_demo
 
-A new Flutter project.
+A Demo of the Google ML Kit for Flutter
+
+https://github.com/bparrishMines/mlkit_demo
+Heavily inspired by [mlkit_demo](https://github.com/bparrishMines/mlkit_demo).
 
 ## Getting Started
 
